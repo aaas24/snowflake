@@ -1,0 +1,12 @@
+{ "secrets" :
+              {
+                "account"   : "<complete me>",
+                "user"      : "<complete me>",
+                "warehouse" : "<complete me>",
+                "role"      : "<complete me>",
+                "database"  : "<complete me>",
+                "schema"    : "<complete me>",
+                "password"  : "<complete me>"
+              },
+  "load_script" : "<complete me>/sql_queries.sql"
+}
