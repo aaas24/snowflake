@@ -8,3 +8,6 @@ The files contained in this model are:
 In order to use these files, don't forget to:
 - Fill your credentials and the location of the file in the _config.json_ file.
 - Modify the location of _config.json_ in _run_queries.py
+
+
+You may also want to check out this an example of a [Jupyter notebook connecting to Snowflake](https://github.com/aaas24/code_library/tree/main/jupyter/jupyter-and-snowflake). 
