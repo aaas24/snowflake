@@ -50,7 +50,8 @@ def main():
       user     = SF_USER,
       password = SF_PASSWORD,
       database = SF_DATABASE,
-      schema   = SF_SCHEMA
+      schema   = SF_SCHEMA,
+      warehouse= SF_WAREHOUSE
   )
 
   try:
